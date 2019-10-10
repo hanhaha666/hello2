@@ -20,4 +20,6 @@ public class HelloFriend {
 		return "John";
 	}
 
+	public void method1(){}
+
 }
